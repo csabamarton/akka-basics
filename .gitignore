@@ -1,0 +1,16 @@
+.metadata
+\.classpath
+\.project
+\.settings
+
+bin
+target
+lib
+out
+project
+
+\.idea
+*.iml
+*.log
+*.log.gz
+*.temp
